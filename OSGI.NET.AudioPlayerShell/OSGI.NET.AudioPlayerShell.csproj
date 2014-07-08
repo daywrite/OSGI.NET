@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>301d7122-5576-46d9-be52-7ddf951160a9</ProjectGuid>
+    <ProjectGuid>{A4D6741D-EE8C-4002-B43D-2ACE899507C6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>OSGI.NET.AudioPlayerShell</RootNamespace>

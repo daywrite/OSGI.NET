@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>dfe7f70d-f842-4c0e-a224-45b28a75ee15</ProjectGuid>
+    <ProjectGuid>{EEA2CA7C-98C3-4A04-A8EA-AC78F43733C3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>OSGI.NET.MP3DecoderPlugin</RootNamespace>
