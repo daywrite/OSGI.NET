@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" Name="Calculator.DemoTwo" SymbolicName="Calculator.DemoTwo" Version="1.0.0.0" InitializedState="Active">
+  <Activator Type="Calculator.DemoTwo.Activator" Policy="Immediate" />
+  <Runtime>
+    <Assembly Path="bin\Calculator.DemoTwo.dll" Share="false" MultipleVersions="false" />
+    <Dependency BundleSymbolicName="Calculator.DemoOne" Resolution="Mandatory" />
+  </Runtime>
+</Bundle>
